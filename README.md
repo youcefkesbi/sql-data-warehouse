@@ -36,4 +36,4 @@ These insights empower stakeholders with key business metrics, enabling strategi
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
 ## 🌟 About Me
-Hi there! I'm Youcef Kesbi. I’m a passionate data engineer with background of full stack development.
+Hi there! I'm Youcef Kesbi. I’m a passionate full stack development with interest in data engineering.
